@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muyuhuatang
+- 👋 Hi, I’m Fan Huang
 - 👀 I’m interested in AI/ML/NLP
 - 🌱 I’m currently learning CS PhD in SMU, Singapore
 - 💞️ I’m looking to collaborate on XAI related projects
